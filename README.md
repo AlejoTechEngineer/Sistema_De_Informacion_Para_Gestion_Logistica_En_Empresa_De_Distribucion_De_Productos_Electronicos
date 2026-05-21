@@ -109,7 +109,7 @@ El archivo `Laboratorio_Contabilidad_Analitica_TI_Alejandro_De_Mendoza.xlsx` con
 | **Margen de Utilidad sobre Ventas** | **23.1%** |
 | **ROI (Retorno sobre Inversión)** | **30%** |
 | **Duración del Proyecto** | **8 meses** |
-| **Total Personas en el Equipo** | **10 personas** |
+| **Total Personas en el Equipo** | **11 personas** |
 
 ### Desglose de Categorías de Costo
 
@@ -138,18 +138,19 @@ IVA = Base Gravable × 19% (compras tecnológicas)
 
 ## 👥 Equipo del Proyecto
 
-| # | Cargo / Perfil | Rol en el Proyecto |
-|---|---|---|
-| 1 | **Director de Proyecto** | Control integral, gestión del alcance, tiempo y presupuesto |
-| 2 | **Analista de Requerimientos** | Levantamiento y especificación de necesidades del cliente |
-| 3 | **Arquitecto de Software** | Diseño de la arquitectura técnica del sistema |
-| 4 | **Desarrollador Backend Senior** | Desarrollo del servidor, APIs y lógica de negocio |
-| 5 | **Desarrollador Frontend** | Interfaz de usuario, módulos de reportes y dashboards BI |
-| 6 | **Diseñador UX/UI** | Experiencia de usuario e interfaces gráficas |
-| 7 | **Ingeniero QA / Pruebas** | Validación funcional, pruebas de carga y corrección |
-| 8 | **Administrador de Base de Datos** | Diseño, implementación y mantenimiento de la BD logística |
-| 9 | **Especialista en Integración TI** | APIs, conectores con ERP y sistemas de terceros |
-| 10 | **Soporte e Implementación** | Implantación en producción y capacitación de usuarios |
+| # | Cargo / Perfil | Cantidad | Rol en el Proyecto |
+|---|---|:---:|---|
+| 1 | **Director de Proyecto** | 1 | Control integral, gestión del alcance, tiempo y presupuesto |
+| 2 | **Analista de Requerimientos** | 1 | Levantamiento y especificación de necesidades del cliente |
+| 3 | **Arquitecto de Software** | 1 | Diseño de la arquitectura técnica del sistema |
+| 4 | **Desarrollador Backend Senior** | **2** | Desarrollo del servidor, APIs y lógica de negocio |
+| 5 | **Desarrollador Frontend** | 1 | Interfaz de usuario, módulos de reportes y dashboards BI |
+| 6 | **Diseñador UX/UI** | 1 | Experiencia de usuario e interfaces gráficas |
+| 7 | **Ingeniero QA / Pruebas** | 1 | Validación funcional, pruebas de carga y corrección |
+| 8 | **Administrador de Base de Datos** | 1 | Diseño, implementación y mantenimiento de la BD logística |
+| 9 | **Especialista en Integración TI** | 1 | APIs, conectores con ERP y sistemas de terceros |
+| 10 | **Soporte e Implementación** | 1 | Implantación en producción y capacitación de usuarios |
+| | **TOTAL** | **11** | |
 
 > **Nota:** La carga prestacional del **52%** aplicada en Colombia incluye: Salud (8.5%), Pensión (12%), ARL promedio, Caja de Compensación (4%), Cesantías (8.33%), Intereses sobre cesantías (1%), Prima de servicios (8.33%), Vacaciones (4.17%), SENA (2%) e ICBF (3%). Bases legales: Ley 100/1993, Ley 21/1982, CST Art. 249, CST Art. 306, CST Art. 186.
 
