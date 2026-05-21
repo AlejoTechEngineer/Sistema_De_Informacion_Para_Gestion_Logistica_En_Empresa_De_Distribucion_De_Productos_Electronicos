@@ -109,7 +109,7 @@ El archivo `Laboratorio_Contabilidad_Analitica_TI_Alejandro_De_Mendoza.xlsx` con
 | **Margen de Utilidad sobre Ventas** | **23.1%** |
 | **ROI (Retorno sobre Inversión)** | **30%** |
 | **Duración del Proyecto** | **8 meses** |
-| **Total Personas en el Equipo** | **11 personas** |
+| **Total Personas en el Equipo** | **10 personas** |
 
 ### Desglose de Categorías de Costo
 
@@ -150,7 +150,6 @@ IVA = Base Gravable × 19% (compras tecnológicas)
 | 8 | **Administrador de Base de Datos** | Diseño, implementación y mantenimiento de la BD logística |
 | 9 | **Especialista en Integración TI** | APIs, conectores con ERP y sistemas de terceros |
 | 10 | **Soporte e Implementación** | Implantación en producción y capacitación de usuarios |
-| 11 | *(Perfil adicional)* | Apoyo técnico o gestión administrativa del proyecto |
 
 > **Nota:** La carga prestacional del **52%** aplicada en Colombia incluye: Salud (8.5%), Pensión (12%), ARL promedio, Caja de Compensación (4%), Cesantías (8.33%), Intereses sobre cesantías (1%), Prima de servicios (8.33%), Vacaciones (4.17%), SENA (2%) e ICBF (3%). Bases legales: Ley 100/1993, Ley 21/1982, CST Art. 249, CST Art. 306, CST Art. 186.
 
