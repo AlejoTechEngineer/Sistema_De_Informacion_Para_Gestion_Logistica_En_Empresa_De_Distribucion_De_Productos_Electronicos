@@ -22,7 +22,7 @@ El trabajo evidencia cómo el costo real de un proyecto tecnológico supera ampl
 
 | Campo | Detalle |
 |---|---|
-| **Estudiante** | Alejandro De Mendoza |
+| **Estudiante** | Ing. Alejandro De Mendoza |
 | **Profesor** | Ing. Edwin Eduardo Millan Rojas |
 | **Asignatura** | Integración de Sistemas |
 | **Actividad** | Laboratorio No. 1 – Contabilidad Analítica y Planificación de Proyectos TI |
@@ -346,7 +346,7 @@ Este proyecto es de carácter **académico** y fue elaborado exclusivamente para
 
 ---
 
-**Elaborado por:** Alejandro De Mendoza  
+**Elaborado por:** Ing. Alejandro De Mendoza  
 **Asignatura:** Integración de Sistemas — UNIR  
 **Fecha:** Mayo 2026  
 **Versión:** 1.0
