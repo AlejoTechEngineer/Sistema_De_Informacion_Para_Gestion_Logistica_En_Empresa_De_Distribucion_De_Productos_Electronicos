@@ -24,6 +24,22 @@ El trabajo evidencia cómo el costo real de un proyecto tecnológico supera ampl
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Sistema de Informacion Gestion Logistica SIGL] --> B[Gestion de Inventarios - Entradas / Salidas / Stock]
+    A --> C[Gestion de Pedidos - Ordenes compra/venta]
+    A --> D[Trazabilidad y Despachos - Seguimiento tiempo real]
+    A --> E[Business Intelligence - Dashboards KPI]
+    A --> F[APIs de Integracion - Conectores ERP / e-commerce]
+    A --> G[Facturacion Electronica DIAN - Cumplimiento regulatorio]
+    A --> H[Modelo Financiero Excel - 13 hojas de trabajo]
+    H --> I[Recursos Humanos - Prestaciones sociales 52%]
+    H --> J[Costos Operativos - Hardware / Software / Servicios]
+    H --> K[Resumen: $638M COP / ROI 30% / 8 meses]
+```
+
 ## 🎓 Información Académica
 
 | Campo | Detalle |
@@ -358,22 +374,6 @@ Este proyecto es de carácter **académico** y fue elaborado exclusivamente para
 **Versión:** 1.0
 
 ---
-
-## Arquitectura
-
-```mermaid
-flowchart TD
-    A[Sistema de Informacion Gestion Logistica SIGL] --> B[Gestion de Inventarios - Entradas / Salidas / Stock]
-    A --> C[Gestion de Pedidos - Ordenes compra/venta]
-    A --> D[Trazabilidad y Despachos - Seguimiento tiempo real]
-    A --> E[Business Intelligence - Dashboards KPI]
-    A --> F[APIs de Integracion - Conectores ERP / e-commerce]
-    A --> G[Facturacion Electronica DIAN - Cumplimiento regulatorio]
-    A --> H[Modelo Financiero Excel - 13 hojas de trabajo]
-    H --> I[Recursos Humanos - Prestaciones sociales 52%]
-    H --> J[Costos Operativos - Hardware / Software / Servicios]
-    H --> K[Resumen: $638M COP / ROI 30% / 8 meses]
-```
 
 ## Autor
 
