@@ -1,3 +1,5 @@
+<div align="center">
+
 # 📦 Sistema de Información para Gestión Logística en Empresa de Distribución de Productos Electrónicos
 
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
@@ -5,6 +7,10 @@
 ![Moneda](https://img.shields.io/badge/Moneda-COP-yellow)
 ![Duración](https://img.shields.io/badge/Duración-8%20meses-orange)
 ![ROI](https://img.shields.io/badge/ROI-30%25-success)
+
+</div>
+
+---
 
 ---
 
@@ -350,3 +356,12 @@ Este proyecto es de carácter **académico** y fue elaborado exclusivamente para
 **Asignatura:** Integración de Sistemas — UNIR  
 **Fecha:** Mayo 2026  
 **Versión:** 1.0
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
